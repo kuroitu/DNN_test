@@ -4,13 +4,13 @@
 
 
 #深層学習シリーズ
-- [深層学習入門 ~基礎編~](https://qiita.com/kuroitu/items/221e8c477ffdd0774b6b)
-- [深層学習入門 ~コーディング準備編~](https://qiita.com/kuroitu/items/884c62c48c2daa3def08)
-- [深層学習入門 ~順伝播編~](https://qiita.com/kuroitu/items/d22c8750e34d5d75fb6c)
-- [深層学習入門 ~逆伝播編~](https://qiita.com/kuroitu/items/ea6ed8f614e65ec44976)
-- [深層学習入門 ~学習則編~](https://qiita.com/kuroitu/items/ab5ad4ac716ae7a04891)
-- [深層学習入門 ~ローカライズと損失関数編~](https://qiita.com/kuroitu/items/a6725ac0139d8eeb1e19)
-- [深層学習入門 ~関数近似編~](https://qiita.com/kuroitu/items/4a8badcf7d3139d9ec7b)
+- [深層学習入門 \~基礎編~](https://qiita.com/kuroitu/items/221e8c477ffdd0774b6b)
+- [深層学習入門 \~コーディング準備編~](https://qiita.com/kuroitu/items/884c62c48c2daa3def08)
+- [深層学習入門 \~順伝播編~](https://qiita.com/kuroitu/items/d22c8750e34d5d75fb6c)
+- [深層学習入門 \~逆伝播編~](https://qiita.com/kuroitu/items/ea6ed8f614e65ec44976)
+- [深層学習入門 \~学習則編~](https://qiita.com/kuroitu/items/ab5ad4ac716ae7a04891)
+- [深層学習入門 \~ローカライズと損失関数編~](https://qiita.com/kuroitu/items/a6725ac0139d8eeb1e19)
+- [深層学習入門 \~関数近似編~](https://qiita.com/kuroitu/items/4a8badcf7d3139d9ec7b)
 - [活性化関数一覧 (2020)](https://qiita.com/kuroitu/items/73cd401afd463a78115a)
 - [勾配降下法一覧 (2020)](https://qiita.com/kuroitu/items/36a58b37690d570dc618)
 - [見てわかる！最適化手法の比較 (2020)](https://qiita.com/kuroitu/items/6695e0c79e888543e150)
