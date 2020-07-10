@@ -1,9 +1,9 @@
-#DNN_test
+# DNN_test
 これまでの記事で作成したコードをもとにしてDNNでの関数近似をテストしてみました。
 コードについての詳しい解説はそれぞれの記事に譲ります。
 
 
-#深層学習シリーズ
+# 深層学習シリーズ
 - [深層学習入門 \~基礎編~](https://qiita.com/kuroitu/items/221e8c477ffdd0774b6b)
 - [深層学習入門 \~コーディング準備編~](https://qiita.com/kuroitu/items/884c62c48c2daa3def08)
 - [深層学習入門 \~順伝播編~](https://qiita.com/kuroitu/items/d22c8750e34d5d75fb6c)
