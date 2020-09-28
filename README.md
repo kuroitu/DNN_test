@@ -1,4 +1,8 @@
+test.ipynbはこちら
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuroitu/DNN_test/blob/master/test.ipynb)
+
+googlecolab_test.ipynbはこちら
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kuroitu/DNN_test/blob/master/googlecolab_test.ipynb)
 
 # DNN_test
 これまでの記事で作成したコードをもとにしてDNNでの関数近似をテストしてみました。
